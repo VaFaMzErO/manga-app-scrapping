@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "733202786995",
+    "project_id": "manga-reader-thesis",
+    "storage_bucket": "manga-reader-thesis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733202786995:android:be3b2364eefc2676321ec6",
+        "android_client_info": {
+          "package_name": "com.example.manga_reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733202786995-s1dba507mm5de7bp42f069l5ne0lrlr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manga_reader",
+            "certificate_hash": "d7ce211174eb294462606d02805ed339b32516e1"
+          }
+        },
+        {
+          "client_id": "733202786995-ni7qkib4fo8j3cfeg67o6hnj18csa239.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASMgF0y_htk78hq0XvocEOa6PF8OeVYPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733202786995-ni7qkib4fo8j3cfeg67o6hnj18csa239.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
